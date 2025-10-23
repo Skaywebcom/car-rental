@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+  <!-- Homepage -->
+  <url>
+    <loc>https://car-rental-batam.vercel.app/</loc>
+    <lastmod>2025-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://car-rental-batam.vercel.app/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://car-rental-batam.vercel.app/?lang=zh" />
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://car-rental-batam.vercel.app/#about</loc>
+    <lastmod>2025-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://car-rental-batam.vercel.app/#about" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://car-rental-batam.vercel.app/#about?lang=zh" />
+  </url>
+
+  <!-- Services Page -->
+  <url>
+    <loc>https://car-rental-batam.vercel.app/#services</loc>
+    <lastmod>2025-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://car-rental-batam.vercel.app/#services" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://car-rental-batam.vercel.app/#services?lang=zh" />
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://car-rental-batam.vercel.app/#contact</loc>
+    <lastmod>2025-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://car-rental-batam.vercel.app/#contact" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://car-rental-batam.vercel.app/#contact?lang=zh" />
+  </url>
+</urlset>
